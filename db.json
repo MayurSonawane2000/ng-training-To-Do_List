@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task_name": "Study Time"
+    },
+    {
+      "id": 2,
+      "task_name": "free time"
+    },
+    {
+      "id": 3,
+      "task_name": "game"
+    },
+    {
+      "id": 4,
+      "task_name": "gym time"
+    },
+    {
+      "id": 5,
+      "task_name": "yoga time"
+    },
+    {
+      "id": 6,
+      "task_name": "sleeping"
+    }
+  ]
+}
